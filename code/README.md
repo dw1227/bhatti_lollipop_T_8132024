@@ -11,7 +11,7 @@ This directory contains the R and Bash scripts used to generate visualizations f
   - Creates violin plots to visualize the distribution of GA at sampling across three distinct groups.
 
 - **get_ga_distribution,sh**
-  - `run_analysis.sh`: A script to execute the R scripts for generating the plots. This script automates the process and ensures all necessary steps are followed.
+  - A script to execute the R scripts for generating the plots. This script automates the process and ensures all necessary steps are followed.
 
 ## Usage
 
