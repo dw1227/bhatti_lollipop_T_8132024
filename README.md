@@ -1,7 +1,10 @@
-# Bhatti Line Plot T Grant 2024
+# Bhatti Lollipop Plot Violin plot 2024
 
-This project aims to generate a line plot showing gestational ages at sampling
-for a list of patients. 
+- Generate a lollipop plot showing gestational ages at sampling for a list of
+  patients grouped by an outcome (preterm birth)
+- Generate a violin plot comparing the distribution of  gestational ages at
+  sampling between the groups.
+
 
 **Author:** Gaurav Bhatti
 
@@ -9,7 +12,7 @@ for a list of patients.
 
 The project folder is organized as follows:
 
-- **data/**: Contains raw and processed data files.
+- **data/**: Contains raw data files.
 - **code/**: Includes the R script used for data processing and visualization.
 - **results/**: Stores output figure.
 
